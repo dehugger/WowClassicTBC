@@ -1,4 +1,5 @@
-# Proc Rates 2 Electric Boogaloo
+# TBC Proc Rates Calculations
+### DST, Romulo's, Mongoose
 
 ## TESTING PARAMS:
 10 minute auto attack intervals vs lvl 70 training dummy
